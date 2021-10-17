@@ -1,1 +1,1 @@
-# insight
+# Classification from Scratch
